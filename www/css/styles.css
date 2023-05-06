@@ -1,0 +1,22 @@
+.header {
+    background-color: rgb(23, 162, 184);
+}
+
+.encabezado {
+    font-size: 35px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.contenedor_acordion {
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    background-color: rgb(23, 162, 184);
+}
+
+.lista_de_alumnos{
+    font-size: 30px;
+    font-weight: 500;
+}
